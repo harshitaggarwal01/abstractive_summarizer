@@ -1,5 +1,5 @@
 # abstractive_summarizer
-
+For the abstractive summarizer I used a bi-directional RNN with LSTM as encoder and and the bahadau attention model as decoder, I used the Amazon reviews as my dataset. Input is any paragraph and output is a short summary or a title line. 
 # Summary Examples
 
 Review(1): I am not a big fan of cereal but it is nice to have it at the house. Both my husband and my kid likes this. I personally prefer protein shake for breakfast.
